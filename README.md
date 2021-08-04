@@ -1,3 +1,4 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/21232416/128249208-46fda594-639c-4af2-86ef-c15afa17c460.gif)
 - 👋 Hi, I’m @couchmeka 
 - 👀 I’m interested in Augmented Reality, Robotics, and Blockchain
 - 🌱 I’m currently learning Javascript and C#
