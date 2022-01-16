@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @couchmeka 
 - 👀 I’m interested in Augmented Reality, Robotics, and Blockchain
 - 🌱 I’m currently learning Javascript and C#
+-       [[Microsoft Product Lover]]
 - 💞️ I’m looking to collaborate on Sensor projects and Green projects
 - 📫 How to reach me meka@wolfberryllc.com
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
