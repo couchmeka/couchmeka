@@ -1,23 +1,19 @@
 
 - 👋  
 - 👀 I like to look around and help where I can. I build for a purpose and cause only. Only for the betterment of technology.
-- 🌱 I’m currently learning Javascript and C#
--                **My website ::Newly Under Development**
--                What I build is yours but please do NOT use this to abuse those who work hard to build
+- 🌱 I’m currently doing what works
+-                  **My website ::Newly Under Development**
+-               <h1> What I build is yours but please do NOT use this to abuse those who work hard to build
 -                I am working on documentation to make it easier for those who want to contribute to tech to contribute
 -                There is never a reason to steal. I'll give it if you as and it seems like it matters. 
 -                I'm a creative who meditates through understanding and I just want to see things get a little easier. 
 -                
 -       [[Microsoft Product Lover]] [[Linux for IoT]] [[Robotics]]
 - 💞️ I’m looking to collaborate on green projects and projects for those with disabilities.
-- 📫 How to reach me ::dont::
+- 📫 How to reach me ::don't::
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][@couchmeka]
-[![alt text][6.1]][couchmeka]
-
 
 <!-- links to social media icons -->
 
