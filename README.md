@@ -10,7 +10,7 @@
 -                
 -       [[Microsoft Product Lover]] [[Linux for IoT]] [[Robotics]]
 - 💞️ I’m looking to collaborate on green projects and projects for those with disabilities.
-- 📫 How to reach me meka.daniels1@gmail.com
+- 📫 How to reach me ::dont::
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
