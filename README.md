@@ -1,8 +1,8 @@
 ![giphy (1)](https://user-images.githubusercontent.com/21232416/154744237-3bf21a83-d270-4268-954d-4b6f4b481ee7.gif)
 
  👋 
-- 👀 I like to look around and help where I can. I build for a purpose and cause only. Only for the betterment of technology.
-- 🌱 I’m currently doing what works. I am a single mom and a tech enthusiast
+ 👀 I like to look around and help where I can. I build for a purpose and cause only. Only for the betterment of technology.
+ 🌱 I’m currently doing what works. I am a single mom and a tech enthusiast
 #                  **Website is being developed Development**
 #####                 What I build is yours but please do NOT use this to abuse those who work hard to build
 #####                 I am working on documentation to make it easier for those who want to contribute to tech to contribute
@@ -15,8 +15,8 @@
 -       Robots
 -       Quick and easy instructions
 -       Documentation
-- 💞️ I’m looking to collaborate on green projects and projects for those with disabilities.
-- 📫 How to reach me ::tetchymeka@tetchy.io::
+💞️ I’m looking to collaborate on green projects and projects for those with disabilities.
+📫 How to reach me ::tetchymeka@tetchy.io::
 
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
