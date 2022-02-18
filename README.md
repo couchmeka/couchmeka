@@ -21,7 +21,7 @@
 
 💞️ I’m looking to collaborate on green projects and projects for those with disabilities.
 📫 How to reach me ::tetchymeka@tetchy.io::
-    Robotics Repository https://github.com/Tetchy-io/TetchyRobotics
+   Robotics Repository https://github.com/Tetchy-io/TetchyRobotics
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
