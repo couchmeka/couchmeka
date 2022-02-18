@@ -1,5 +1,5 @@
 
- 👋  Tetchy Tetch
+ 👋 
 - 👀 I like to look around and help where I can. I build for a purpose and cause only. Only for the betterment of technology.
 - 🌱 I’m currently doing what works. I am a single mom and a tech enthusiast
 #                  **Website is being developed Development**
