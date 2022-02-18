@@ -1,6 +1,6 @@
 ![giphy (1)](https://user-images.githubusercontent.com/21232416/154744237-3bf21a83-d270-4268-954d-4b6f4b481ee7.gif)
 
- 👋 
+👋 
  👀 I like to look around and help where I can. I build for a purpose and cause only. Only for the betterment of technology.
  🌱 I’m currently doing what works. I am a single mom and a tech enthusiast
  
@@ -21,7 +21,7 @@
 
 💞️ I’m looking to collaborate on green projects and projects for those with disabilities.
 📫 How to reach me ::tetchymeka@tetchy.io::
-
+    Robotics Repository https://github.com/Tetchy-io/TetchyRobotics
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
