@@ -4,7 +4,7 @@
  👀 I like to look around and help where I can. I build for a purpose and cause only. Only for the betterment of technology.
  🌱 I’m currently doing what works. I am a single mom and a tech enthusiast
  
-###                 **Website is being developed Development**
+###                 **Website is under Development**
 ###                  **Portfolio https://couchmeka.github.io/**
 #####                 What I build is yours but please do NOT use this to abuse those who work hard to build
 #####                 I am working on documentation to make it easier for those who want to contribute to tech to contribute
