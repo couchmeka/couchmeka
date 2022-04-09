@@ -1,7 +1,7 @@
 ![giphy (1)](https://user-images.githubusercontent.com/21232416/154744237-3bf21a83-d270-4268-954d-4b6f4b481ee7.gif)
 
 👋 
- 👀 I like to look around and help where I can. I build for a purpose and cause only. Only for the betterment of technology.
+ 👀 build fora purpose
  🌱 I’m currently doing what works. I am a single mom and a tech enthusiast
  
 ###                 **Website is under Development**
