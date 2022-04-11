@@ -1,8 +1,8 @@
 ![giphy (1)](https://user-images.githubusercontent.com/21232416/154744237-3bf21a83-d270-4268-954d-4b6f4b481ee7.gif)
 
 👋 
- 👀 build fora purpose
- 🌱 I’m currently doing what works. I am a single mom and a tech enthusiast
+ 👀 build for a purpose
+ 🌱 I’m currently doing what works. I am a mom and a tech enthusiast
  
 ###                 **Website is under Development**
 ###                  **Portfolio https://couchmeka.github.io/**
