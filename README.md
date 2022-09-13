@@ -4,7 +4,7 @@
  👀 build for a purpose
  
  🌱 I’m currently doing what works.
-  Looking to collaborate on green projects
+  :leaves: Looking to collaborate on green projects
 
 [GitHub Page](https://couchmeka.github.io)
 ![](https://komarev.com/ghpvc/?username=couchmeka&color=green)
