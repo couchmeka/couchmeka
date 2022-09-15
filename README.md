@@ -5,6 +5,7 @@
  
  🌱 I’m currently doing what works.
   :leaves: Looking to collaborate on green projects
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=couchmeka&show_icons=true)
 
 [GitHub Page](https://couchmeka.github.io)
 ![](https://komarev.com/ghpvc/?username=couchmeka&color=green)
