@@ -1,5 +1,5 @@
 👋 
- 👀 build for a purpose
+ 👀 building for a purpose
  
  🌱 I’m currently doing what works.
   :leaves: Looking to collaborate on green projects 
