@@ -10,7 +10,6 @@
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=couchmeka&theme=blue-green)
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=couchmeka&show_icons=true)
 
