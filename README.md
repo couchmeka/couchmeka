@@ -11,7 +11,7 @@
 
 
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=couchmeka&show_icons=true)
+
 
 ![Code Wars](https://www.codewars.com/users/couchmeka/badges/large)
 
