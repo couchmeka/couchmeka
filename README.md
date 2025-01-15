@@ -2,7 +2,7 @@
  👀 building for a purpose
  
  🌱 I’m currently doing what works.
-  :leaves: Looking to collaborate on green projects 
+  Looking to collaborate on green projects 
   
  
   
